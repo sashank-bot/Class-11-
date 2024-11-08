@@ -1,4 +1,7 @@
 # Class-11-
 This is my first github repository. 
-Auther = Shashank 
+<br>
+Auther -> Shashank 
+<br>
+Homework questions 
 
