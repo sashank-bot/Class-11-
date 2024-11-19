@@ -5,4 +5,4 @@ while (True):
     if max_num%n1 == 0 and max_num%n2 == 0 :
         break
     max_num +=1
-print(f"the LCM of {n1},{n2} is {max_num}")
+print(f"the LCM of {n1},{n2} is {max_num}").
